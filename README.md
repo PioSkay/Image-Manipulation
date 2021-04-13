@@ -11,3 +11,11 @@ To properly use the code u do need to specify filter type the source of the imag
 
 For example:
 ./filter -g in.bmp out.bmp
+
+### Examples
+
+![Sample](https://github.com/PioSkay/Image-Manipulation/blob/main/res/sample.bmp)
+![Grey](https://github.com/PioSkay/Image-Manipulation/blob/main/res/grey.bmp)
+![Reverse](https://github.com/PioSkay/Image-Manipulation/blob/main/res/reverse.bmp)
+![Blur](https://github.com/PioSkay/Image-Manipulation/blob/main/res/blur.bmp)
+![Edge](https://github.com/PioSkay/Image-Manipulation/blob/main/res/edge.bmp)
